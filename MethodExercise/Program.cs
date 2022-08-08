@@ -3,9 +3,22 @@
 namespace MethodExercise
 {
     class Program
-    {
+    {   //Exercise two//
+        public static int sum(int number1, int number2)
+        {
+            return number1 + number2;
+        }
+        public static int multiply(int number3, int number4)
+        {
+            return number3 * number4;
+        }
+
         static void Main(string[] args)
         {
+            var dogCount = sum(2, 6);
+            var catCount = multiply(10, 2);
+
+            //Exercise one //
             Console.WriteLine("Hello, What is your first name?");
             var userName = Console.ReadLine();
 

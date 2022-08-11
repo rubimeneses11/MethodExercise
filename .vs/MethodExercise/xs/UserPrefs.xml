@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{582D871D-E090-4759-97E6-ED885D523015}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MethodExercise/Program.cs">
+    <Files>
+      <File FileName="MethodExercise/Program.cs" Line="41" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MethodExercise" expanded="True">
+            <Node name="MethodExercise" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.MethodExercise FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MethodExercise PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
